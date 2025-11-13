@@ -1,4 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/malak936/reactjs-gsap-project?style=social)
+![GitHub stars](https://img.shields.io/github/stars/malak963/reactjs-gsap-project?style=social)
 
 # Nova — React + Tailwind Landing Page
 
