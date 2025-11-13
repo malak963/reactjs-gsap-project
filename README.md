@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/YourUserName/YourRepoName?style=social)
+
 # Nova — React + Tailwind Landing Page
 
 A modern, responsive landing page built with React, Vite, and Tailwind CSS. It features animated titles, interactive buttons, custom clip-path imagery, and clean sectioned layout (About, Features, Store, Contact) with a social footer.
